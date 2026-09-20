@@ -73,6 +73,6 @@ data-warehouse-project/
 ---
 ## 🤝 Acknowledgments
 
-Special thanks to Baraa ([Data with Baraa]([https://www.youtube.com/@DataWithBaraa])) for providing this comprehensive free tutorial series.
+Special thanks to Baraa ([Data with Baraa](https://www.youtube.com/@DataWithBaraa)) for providing this comprehensive free tutorial series.
 
-💡 Developed by [Your Name] as part of my Data Engineering & Analytics portfolio.
+💡 Developed by Manuel Rufino as part of my Data Engineering & Analytics portfolio.
