@@ -7,7 +7,6 @@
 This repository contains all SQL scripts, Data Analysis queries, and Data Warehouse development code created while completing the **"SQL Full Course for Beginners"** by [Data with Baraa](https://www.youtube.com/watch?v=SSKVgrwhzus).
 
 ---
----
 ## 🏗️ Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
@@ -72,3 +71,8 @@ data-warehouse-project/
 
 ```
 ---
+## 🤝 Acknowledgments
+
+Special thanks to Baraa ([Data with Baraa]([https://www.youtube.com/@DataWithBaraa])) for providing this comprehensive free tutorial series.
+
+💡 Developed by [Your Name] as part of my Data Engineering & Analytics portfolio.
